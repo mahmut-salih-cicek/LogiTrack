@@ -2,6 +2,30 @@
 
 Portfolio-grade Flutter MVP uygulaması - Lojistik ve saha operasyonları için profesyonel mobil uygulama.
 
+
+
+### Ekran Görüntüleri
+
+<p align="center"> 
+
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-27-34-79_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-27-27-36_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-27-39-12_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-27-49-68_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-27-56-61_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-28-15-33_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-28-24-74_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-28-31-00_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-28-37-15_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+<a href=""><img src="https://raw.githubusercontent.com/mahmut-salih-cicek/LogiTrack/main/logitrackSS/Screenshot_2025-12-10-12-28-49-45_143b81a2128d8037c2f5f14b667700cc.jpg" width="200px"></a>
+</p>
+
+
+---
+
+
+
+
 ## 🏗️ Mimari
 
 Bu proje **Clean Architecture + MVVM** pattern'i kullanarak geliştirilmiştir:
