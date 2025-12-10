@@ -1,4 +1,4 @@
-# TURUSA Logistics & Field Operations MVP
+# LogiTrack Logistics & Field Operations MVP
 
 Portfolio-grade Flutter MVP uygulaması - Lojistik ve saha operasyonları için profesyonel mobil uygulama.
 
